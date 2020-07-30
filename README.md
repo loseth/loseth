@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome 🖖
+
+- 🔭 I’m currently working on SwiftUI apps
+- 📫 How to reach me: https://twitter.com/loseth
+
 
 <!--
 **loseth/loseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
