@@ -1,7 +1,12 @@
 ### Welcome 🖖
 
-- 🔭 I’m currently working on SwiftUI apps
-- 📫 How to reach me: https://twitter.com/loseth
+- 🔭 I’m currently working on Swift, Python and Arificial Intelligence
+- 🔭 Also helping a non-profit NGO preserve and restore a culutural heritage valley
+  - website design
+  - building a base of memberships and archives
+  - strategic planning with/against involved parties
+  - social media strategies
+- 📫 How to reach me: rafsol@mac.com
 
 
 <!--
