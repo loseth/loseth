@@ -1,11 +1,15 @@
 ### Welcome 🖖
 
 - 🔭 I’m currently working on Swift, Python and Arificial Intelligence
-- 🔭 Also helping a non-profit NGO preserve and restore a culutural heritage valley
-  - website design
+- 🔭 Working with a crime literature festival
+  - website design, content and maintenance
+  - app development
+  - building a database of authors/participators (past and future)
+  - social media strategies
+- 🔭 Working with a non-profit NGO preserve to restore/preserve a culutural heritage valley
+  - website design, content and maintenance
   - building a base of memberships and archives
   - strategic planning with/against involved parties
-  - social media strategies
 - 📫 How to reach me: rafsol@mac.com
 
 
