@@ -6,7 +6,7 @@
   - app development
   - building a database of authors/participators (past and future)
   - social media strategies
-- 🔭 Working with a non-profit NGO preserve to restore/preserve a culutural heritage valley
+- 🔭 Working with a non-profit NGO to restore/preserve a culutural heritage valley
   - website design, content and maintenance
   - building a base of memberships and archives
   - strategic planning with/against involved parties
